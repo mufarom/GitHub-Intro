@@ -7,3 +7,7 @@ body{
 p:hover{
     color: blue;
 }
+
+footer:hover{
+    color: aqua;
+}
