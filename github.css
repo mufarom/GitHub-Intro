@@ -1,0 +1,9 @@
+body{
+    background-color: gray;
+    color: chartreuse;
+
+}
+
+p:hover{
+    color: blue;
+}
